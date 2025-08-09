@@ -1,5 +1,37 @@
 [
   {
+    "title": "天骄公园 2室1厅 81.93平米",
+    "deal_price": "84.5",
+    "list_price": "10314",
+    "deal_date": "2025.07.24",
+    "is_renovated": "毛坯",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "金科天元道砚北B区 3室2厅 93.17平米",
+    "deal_price": "125.2",
+    "list_price": "13435",
+    "deal_date": "2025.07.22",
+    "is_renovated": "精装",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "天骄公园 4室2厅 128.03平米",
+    "deal_price": "153.2",
+    "list_price": "11966",
+    "deal_date": "2025.07.21",
+    "is_renovated": "精装",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "龙湖江与城原山 5室3厅 278.64平米",
+    "deal_price": "700",
+    "list_price": "25123",
+    "deal_date": "2025.07.21",
+    "is_renovated": "精装",
+    "deal_cycle": "未知"
+  },
+  {
     "title": "天骄公园 3室1厅 91.6平米",
     "deal_price": "110.5",
     "list_price": "12064",
@@ -717,6 +749,454 @@
     "list_price": "14493",
     "deal_date": "2025.04.19",
     "is_renovated": "精装",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "龙湖江与城海茨堡 5室2厅 194.43平米",
+    "deal_price": "235",
+    "list_price": "12087",
+    "deal_date": "2025.04.19",
+    "is_renovated": "毛坯",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "江与城 4室1厅 137.1平米",
+    "deal_price": "164.7",
+    "list_price": "12014",
+    "deal_date": "2025.04.18",
+    "is_renovated": "精装",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "天骄公园 3室1厅 91.6平米",
+    "deal_price": "127.8",
+    "list_price": "13952",
+    "deal_date": "2025.04.17",
+    "is_renovated": "精装",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "融创壹号院一期 4室2厅 138.89平米",
+    "deal_price": "200",
+    "list_price": "14400",
+    "deal_date": "2025.04.14",
+    "is_renovated": "毛坯",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "江与城北区二组团 4室2厅 141.46平米",
+    "deal_price": "148",
+    "list_price": "10463",
+    "deal_date": "2025.04.14",
+    "is_renovated": "精装",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "壹江郡三期 4室2厅 176.45平米",
+    "deal_price": "385",
+    "list_price": "21820",
+    "deal_date": "2025.04.13",
+    "is_renovated": "精装",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "龙湖江与城原山 6室3厅 287.22平米",
+    "deal_price": "765",
+    "list_price": "26635",
+    "deal_date": "2025.04.11",
+    "is_renovated": "精装",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "新江与城清晖时光 3室2厅 94.63平米",
+    "deal_price": "109.2",
+    "list_price": "11540",
+    "deal_date": "2025.04.10",
+    "is_renovated": "毛坯",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "金科天元道砚北A组团 4室2厅 156.39平米",
+    "deal_price": "211",
+    "list_price": "13492",
+    "deal_date": "2025.04.07",
+    "is_renovated": "毛坯",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "新江与城悠澜 2室1厅 97.95平米",
+    "deal_price": "103.3",
+    "list_price": "10546",
+    "deal_date": "2025.04.06",
+    "is_renovated": "毛坯",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "金科天元道砚北B区 3室2厅 111.41平米",
+    "deal_price": "128",
+    "list_price": "11490",
+    "deal_date": "2025.04.06",
+    "is_renovated": "精装",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "熙溪地 2室2厅 93.6平米",
+    "deal_price": "100",
+    "list_price": "10684",
+    "deal_date": "2025.04.06",
+    "is_renovated": "精装",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "天骄公园 3室2厅 91.6平米",
+    "deal_price": "102.8",
+    "list_price": "11223",
+    "deal_date": "2025.04.03",
+    "is_renovated": "毛坯",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "新江与城清晖时光 3室2厅 95平米",
+    "deal_price": "102.2",
+    "list_price": "10758",
+    "deal_date": "2025.04.03",
+    "is_renovated": "毛坯",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "金科天元道砚北A组团 4室1厅 123.86平米",
+    "deal_price": "168.6",
+    "list_price": "13613",
+    "deal_date": "2025.04.02",
+    "is_renovated": "毛坯",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "熙溪地 2室2厅 79.88平米",
+    "deal_price": "95.9",
+    "list_price": "12004",
+    "deal_date": "2025.04.02",
+    "is_renovated": "精装",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "金科天元道砚北A组团 4室2厅 163.08平米",
+    "deal_price": "335",
+    "list_price": "20543",
+    "deal_date": "2025.03.31",
+    "is_renovated": "精装",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "金科天元道一期一组团 4室2厅 134平米",
+    "deal_price": "157",
+    "list_price": "11717",
+    "deal_date": "2025.03.31",
+    "is_renovated": "精装",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "龙湖江与城二期纯小镇 3室2厅 148.38平米",
+    "deal_price": "195.9",
+    "list_price": "13203",
+    "deal_date": "2025.03.31",
+    "is_renovated": "精装",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "龙湖江与城海茨堡 3室2厅 137.6平米",
+    "deal_price": "217",
+    "list_price": "15771",
+    "deal_date": "2025.03.30",
+    "is_renovated": "精装",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "熙溪地 4室2厅 130.7平米",
+    "deal_price": "151",
+    "list_price": "11554",
+    "deal_date": "2025.03.30",
+    "is_renovated": "精装",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "龙湖江与城薇澜岸 4室2厅 155.19平米",
+    "deal_price": "287",
+    "list_price": "18494",
+    "deal_date": "2025.03.30",
+    "is_renovated": "精装",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "熙溪地 5室2厅 225.34平米",
+    "deal_price": "345",
+    "list_price": "15311",
+    "deal_date": "2025.03.30",
+    "is_renovated": "精装",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "江与城北区二组团 4室2厅 129.46平米",
+    "deal_price": "133",
+    "list_price": "10274",
+    "deal_date": "2025.03.30",
+    "is_renovated": "毛坯",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "龙湖江与城二期纯小镇 3室2厅 146.75平米",
+    "deal_price": "181",
+    "list_price": "12334",
+    "deal_date": "2025.03.30",
+    "is_renovated": "精装",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "龙湖江与城江城时光 3室2厅 95.22平米",
+    "deal_price": "118.8",
+    "list_price": "12477",
+    "deal_date": "2025.03.29",
+    "is_renovated": "精装",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "江与城北区二组团 4室2厅 140.44平米",
+    "deal_price": "138",
+    "list_price": "9827",
+    "deal_date": "2025.03.27",
+    "is_renovated": "简装",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "新江与城清晖岸 5室2厅 189平米",
+    "deal_price": "287",
+    "list_price": "15186",
+    "deal_date": "2025.03.25",
+    "is_renovated": "毛坯",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "壹江郡一期 3室2厅 172.23平米",
+    "deal_price": "380",
+    "list_price": "22064",
+    "deal_date": "2025.03.23",
+    "is_renovated": "毛坯",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "天骄公园 3室2厅 97.2平米",
+    "deal_price": "130.8",
+    "list_price": "13457",
+    "deal_date": "2025.03.23",
+    "is_renovated": "毛坯",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "龙湖江与城A区 4室2厅 125.3平米",
+    "deal_price": "160",
+    "list_price": "12770",
+    "deal_date": "2025.03.22",
+    "is_renovated": "毛坯",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "熙溪地 2室2厅 79.76平米",
+    "deal_price": "93.8",
+    "list_price": "11761",
+    "deal_date": "2025.03.22",
+    "is_renovated": "精装",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "新江与城悠澜 3室2厅 125平米",
+    "deal_price": "144.8",
+    "list_price": "11584",
+    "deal_date": "2025.03.22",
+    "is_renovated": "毛坯",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "龙湖江与城原山时光 3室1厅 96.38平米",
+    "deal_price": "113",
+    "list_price": "11725",
+    "deal_date": "2025.03.22",
+    "is_renovated": "毛坯",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "新江与城清晖时光 2室2厅 84.69平米",
+    "deal_price": "97.6",
+    "list_price": "11525",
+    "deal_date": "2025.03.21",
+    "is_renovated": "毛坯",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "龙湖江与城薇澜岸 4室1厅 139.77平米",
+    "deal_price": "234",
+    "list_price": "16742",
+    "deal_date": "2025.03.20",
+    "is_renovated": "精装",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "龙湖江与城薇澜岸 2室1厅 84平米",
+    "deal_price": "92.8",
+    "list_price": "11048",
+    "deal_date": "2025.03.19",
+    "is_renovated": "毛坯",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "龙湖江与城海茨堡 4室2厅 205.06平米",
+    "deal_price": "395",
+    "list_price": "19263",
+    "deal_date": "2025.03.19",
+    "is_renovated": "精装",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "龙湖江与城原山 5室1厅 268.78平米",
+    "deal_price": "620",
+    "list_price": "23068",
+    "deal_date": "2025.03.19",
+    "is_renovated": "精装",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "金科天元道砚北A组团 4室1厅 146平米",
+    "deal_price": "206",
+    "list_price": "14110",
+    "deal_date": "2025.03.18",
+    "is_renovated": "毛坯",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "金科天元道砚北A组团 4室1厅 122平米",
+    "deal_price": "176.8",
+    "list_price": "14492",
+    "deal_date": "2025.03.16",
+    "is_renovated": "毛坯",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "龙湖江与城原山时光 2室2厅 79.96平米",
+    "deal_price": "87.5",
+    "list_price": "10943",
+    "deal_date": "2025.03.16",
+    "is_renovated": "毛坯",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "新江与城悠澜 3室1厅 87.84平米",
+    "deal_price": "116",
+    "list_price": "13206",
+    "deal_date": "2025.03.16",
+    "is_renovated": "精装",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "熙溪地 3室2厅 109.39平米",
+    "deal_price": "117",
+    "list_price": "10696",
+    "deal_date": "2025.03.15",
+    "is_renovated": "精装",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "新江与城清晖岸 4室1厅 158.84平米",
+    "deal_price": "223",
+    "list_price": "14040",
+    "deal_date": "2025.03.14",
+    "is_renovated": "毛坯",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "新江与城清晖岸 4室2厅 159.13平米",
+    "deal_price": "223.5",
+    "list_price": "14046",
+    "deal_date": "2025.03.14",
+    "is_renovated": "毛坯",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "天骄公园 4室2厅 122.9平米",
+    "deal_price": "150",
+    "list_price": "12206",
+    "deal_date": "2025.03.13",
+    "is_renovated": "毛坯",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "熙溪地 3室2厅 127.47平米",
+    "deal_price": "200",
+    "list_price": "15690",
+    "deal_date": "2025.03.12",
+    "is_renovated": "毛坯",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "金科天元道C区 4室2厅 120.54平米",
+    "deal_price": "153.8",
+    "list_price": "12760",
+    "deal_date": "2025.03.10",
+    "is_renovated": "毛坯",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "壹江郡三期 6室3厅 386平米",
+    "deal_price": "670",
+    "list_price": "17358",
+    "deal_date": "2025.03.10",
+    "is_renovated": "简装",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "慈竹苑 1室1厅 55.96平米",
+    "deal_price": "40",
+    "list_price": "7148",
+    "deal_date": "2025.03.09",
+    "is_renovated": "简装",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "熙溪地 4室2厅 167平米",
+    "deal_price": "288",
+    "list_price": "17246",
+    "deal_date": "2025.03.06",
+    "is_renovated": "精装",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "壹江郡一期 4室2厅 140平米",
+    "deal_price": "301.8",
+    "list_price": "21558",
+    "deal_date": "2025.03.05",
+    "is_renovated": "毛坯",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "龙湖江与城A区 4室2厅 161.72平米",
+    "deal_price": "166",
+    "list_price": "10265",
+    "deal_date": "2025.03.03",
+    "is_renovated": "简装",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "龙湖江与城原山 6室4厅 286.39平米",
+    "deal_price": "666",
+    "list_price": "23256",
+    "deal_date": "2025.03.03",
+    "is_renovated": "精装",
+    "deal_cycle": "未知"
+  },
+  {
+    "title": "金科天元道砚北B区 3室2厅 93.17平米",
+    "deal_price": "109",
+    "list_price": "11700",
+    "deal_date": "2025.03.02",
+    "is_renovated": "毛坯",
     "deal_cycle": "未知"
   }
 ]
